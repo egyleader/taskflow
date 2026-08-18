@@ -1,0 +1,14 @@
+name: taskflow
+description: >
+  A pure-Dart CLI task manager. Built purely as a playground for practicing
+  team git/GitHub workflows -- the app logic is intentionally simple so all
+  the interesting complexity lives in the git history, not the code.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0

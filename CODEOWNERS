@@ -1,0 +1,6 @@
+# Used from Level 9 onward once your teammate's GitHub username is known.
+# Until then this file is inert -- GitHub ignores CODEOWNERS entries that
+# don't resolve to a valid collaborator.
+#
+# Example (fill in during Level 9):
+# lib/repository/ @your-teammate-username
